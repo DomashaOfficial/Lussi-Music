@@ -1,0 +1,23 @@
+tgcrypto
+asyncio
+ffmpeg-python
+py-tgcalls
+pyrogram
+youtube-search-python
+yt-dlp
+youtube_dl
+lyricsgenius
+speedtest-cli
+youtube-search
+python-dotenv
+dnspython
+gitpython
+aiofiles
+aiohttp
+requests
+pillow
+motor
+psutil
+future
+wget
+© 2022 GitHub, Inc
