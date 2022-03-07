@@ -7,4 +7,7 @@
   <b>A Powerful Music & Video Streamer</b>
 </p>
 
+# Deploy On Heroku
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DomashaOfficial/Lussi-Music)
 
