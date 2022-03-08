@@ -7,6 +7,14 @@
   <b>A Powerful Music & Video Streamer</b>
 </p>
 
+
+[![Stars](https://img.shields.io/github/stars/DomashaOfficial/Lussi-Music?style=flat-square&color=yellow)](https://github.com/DomashaOfficial/Lussi-Music/stargazers)
+[![Forks](https://img.shields.io/github/forks/DomashaOfficial/Lussi-Music?style=flat-square&color=orange)](https://github.com/DomashaOfficial/Lussi-Music/fork)
+[![Size](https://img.shields.io/github/repo-size/DomashaOfficial/Lussi-Music?style=flat-square&color=green)](https://github.com/DomashaOfficial/Lussi-Music/)   
+[![Python](https://img.shields.io/badge/Python-v3.9.9-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DomashaOfficial/Lussi-Music/graphs/commit-activity)
+ 
+
 # Deploy On Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DomashaOfficial/Lussi-Music)
