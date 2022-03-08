@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/20466299e1e44d5eefd8c.jpg" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/20466299e1e44d5eefd8c.jpg" width="500" height="500"></a> </br>
   <b>A Powerful Music & Video Streamer</b>
 </p>
 
