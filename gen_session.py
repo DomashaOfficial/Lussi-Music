@@ -1,3 +1,13 @@
+#
+# Copyright (C) 2022 by TeamLussii@Github, < https://github.com/DomashaOfficial/Lussi-Music >.
+#
+# This file is part of < https://github.com/DomashaOfficial/Lussi-Music > project,
+# and is released under the "GNU v3.0 License Agreement".
+# Please see < https://github.com/DomashaOfficial/Lussi-Music/blob/master/LICENSE >
+#
+# All rights reserved.
+
+
 import asyncio
 
 from pyrogram import Client as c
