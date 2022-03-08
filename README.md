@@ -15,5 +15,5 @@
  
 This project is licensed under the **GNU General Public License v3**. All designs were created by [@DomashaOfficial](https://github.com/DomashaOfficial) .
 
-See [LICENSE](../LICENSE) for more information.
+See [LICENSE](https://github.com/DomashaOfficial/Lussi-Music/blob/main/LICENSE) for more information.
 
