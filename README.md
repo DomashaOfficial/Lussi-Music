@@ -25,3 +25,5 @@ This project is licensed under the **GNU General Public License v3**. All design
 
 See [LICENSE](https://github.com/DomashaOfficial/Lussi-Music/blob/main/LICENSE) for more information.
 
+[![Contact](https://img.shields.io/badge/Contact Me On-DR-blue)](https://t.me/Dr_Stranger_XD/)  
+
