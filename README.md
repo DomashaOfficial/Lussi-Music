@@ -11,3 +11,9 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DomashaOfficial/Lussi-Music)
 
+## 🗂 License
+
+This project is licensed under the **GNU General Public License v3**. All designs were created by [@NotReallyShikhar](https://github.com/DomashaOfficial) .
+
+See [LICENSE](../LICENSE) for more information.
+
