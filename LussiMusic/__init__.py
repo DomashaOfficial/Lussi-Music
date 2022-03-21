@@ -7,7 +7,7 @@
 #
 # All rights reserved.
 
-from LussiMusic.core.bot import LussiBot
+from LussiMusic.core.bot import YukkiBot
 from LussiMusic.core.dir import dirr
 from LussiMusic.core.git import git
 from LussiMusic.core.userbot import Userbot
